@@ -3,3 +3,5 @@ I am a fix file which will be user to fix the bug.
 Another bug fix.
 
 add another marketing section.
+
+add footer note.
